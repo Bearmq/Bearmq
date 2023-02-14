@@ -1,8 +1,6 @@
 ## Prazer! Me chamo Beatriz👋
 - Cursando o 3º semestre de Ciência da Computação 💻
-- Programando e estudando javascript e Python 📚
-- 21 anos✨
-- L'appel du vide🌙
+- Programando e estudando Java e Python 📚
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
