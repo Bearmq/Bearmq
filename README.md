@@ -1,6 +1,6 @@
 ## Prazer! Me chamo Beatriz👋
 - Cursando o 3º semestre de Ciência da Computação 💻
-- Programando e estudando Java e Python 📚
+- Programando e estudando Python 📚
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
